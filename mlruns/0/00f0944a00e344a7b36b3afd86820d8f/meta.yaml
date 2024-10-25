@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/OneDrive%20-%20Talentpace/Desktop/HVAC/gateway/MLops%20Pipeline/src/mlruns/0/00f0944a00e344a7b36b3afd86820d8f/artifacts
+end_time: 1729836200359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00f0944a00e344a7b36b3afd86820d8f
+run_name: aged-turtle-690
+run_uuid: 00f0944a00e344a7b36b3afd86820d8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729836076344
+status: 3
+tags: []
+user_id: admin

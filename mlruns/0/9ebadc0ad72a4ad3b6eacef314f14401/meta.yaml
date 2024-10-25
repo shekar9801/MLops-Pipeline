@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/OneDrive%20-%20Talentpace/Desktop/HVAC/gateway/MLops%20Pipeline/src/mlruns/0/9ebadc0ad72a4ad3b6eacef314f14401/artifacts
+end_time: 1729835714213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ebadc0ad72a4ad3b6eacef314f14401
+run_name: sincere-trout-500
+run_uuid: 9ebadc0ad72a4ad3b6eacef314f14401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729835540521
+status: 3
+tags: []
+user_id: admin
